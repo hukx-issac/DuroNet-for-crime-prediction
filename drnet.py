@@ -24,7 +24,6 @@ n_position:　生成位置编码的长度，default:200
 
 
 class Model(nn.Module):
-    ''' Transformer Encoder + Conv1d + MLP '''
 
     def __init__(self, d_word_vec=77, n_layers=3, n_head=1, d_k=16, d_v=16,
             d_model=77, d_inner=16, dropout=0.1, n_position=200, seq_len=15, con_size=3, days=1, kernel = 'linear',kernel_size_tcn=3, kernel_size_scn = 2):
