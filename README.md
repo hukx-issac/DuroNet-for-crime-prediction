@@ -1,2 +1,2 @@
 # DuroNet-for-crime-prediction
-The source code of the paper "DuroNet: A Dual-Robust Enhanced Spatial-Temporal Learning Network for Urban Crime Prediction"
+The source code of the paper "DuroNet: A Dual-robust Enhanced Spatial-temporal Learning Network for Urban Crime Prediction"
